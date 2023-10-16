@@ -59,7 +59,7 @@ Then this other dialog will appear, it is a list of all possible plugins. Scroll
 
 # For Filtering data, segmentation and volume calculation 
 
-See the complete manual (which can be found in the main folder of this GitHub) with the previous installing sections (1 and 2) and the following parts:
+See the complete manual (which can be found in the main folder of this GitHub named "CocciVol manual.pdf") with the previous installing sections (1 and 2) and the following parts:
 
 3.	Sort and prepare your files/folders
 4.	Filtering process (preparing raw data)
