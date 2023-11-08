@@ -80,7 +80,12 @@ See the complete manual (which can be found in the main folder of this GitHub na
 7.	Batch processing
 8.	Volume measurement from table
 
-#USEFUL LINKS (CLONING)
+# USEFUL LINKS 
 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+- Cloning:
+	This is the recommended action to work with this space, clone the whole GitHub folder to have access to all the files.
 
+	https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+- ilastik paper explaining how it works:
+  https://www.nature.com/articles/s41592-019-0582-9
