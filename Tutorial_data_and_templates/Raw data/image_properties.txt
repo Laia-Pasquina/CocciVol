@@ -1,0 +1,1 @@
+image_raw_1.nd2 -> Red (NHS Esther) - C= 2 - [B (YES) = C-3] - Z stack = 6-8  // 166.4x140.4 um
