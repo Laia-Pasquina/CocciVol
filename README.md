@@ -4,11 +4,12 @@ Combining FIJI and ilastik to provide a versatile and adaptable approach to auto
 #	0. How to navigate files in this GitHUB
 
 The files in the main folder are three types of files:
-	* Information files = LICENSE and README.md which are only for your information about 	how to use, navigate and cite this GitHub.
 
- 	*Main User Tutorial files = CocciVol_User_Manual_v1.pdf / I recommend download it and 	read it alongside visualising the video / CocciVol_Video_Tutorial_V1.txt, you can 	find the link to the video instide the text file.
+- Information files = LICENSE and README.md which are only for your information about 	how to use, navigate and cite this GitHub.
 
-  	*Folders = The folders are self-explanatory. To follow the video tutorial you should 	first download the "Tutorial_data_and_templates" to learn how to use the routine. You 	will also need to download the "FIJI macros" folder. Even more recommended is to 	Clone this whole GitHub folder into your computer / follow the link at the bottom of 	this README file. The additional files only contains another video with a bad audio 	but that might be usefulf for additional explanations / datasets might be added in 	the future as examples of this routine.
+- Main User Tutorial files = CocciVol_User_Manual_v1.pdf / I recommend download it and 	read it alongside visualising the video / CocciVol_Video_Tutorial_V1.txt, you can 	find the link to the video instide the text file.
+
+- Folders = The folders are self-explanatory. To follow the video tutorial you should 	first download the "Tutorial_data_and_templates" to learn how to use the routine. You 	will also need to download the "FIJI macros" folder. Even more recommended is to 	Clone this whole GitHub folder into your computer / follow the link at the bottom of 	this README file. The additional files only contains another video with a bad audio 	but that might be usefulf for additional explanations / datasets might be added in 	the future as examples of this routine.
 
 Within the folders, when you find a .zip file or a .txt file is because the original files were too big to upload into GitHub. Download and extract the files from the compressed .zip folders and click on the links inside the text .txt files.
 
