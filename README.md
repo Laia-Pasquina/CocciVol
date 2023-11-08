@@ -68,4 +68,7 @@ See the complete manual (which can be found in the main folder of this GitHub na
 7.	Batch processing
 8.	Volume measurement from table
 
+#USEFUL LINKS (CLONING)
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
