@@ -63,7 +63,7 @@ where STRAIN_XXX is the name of your strain.
 *Situation 2:
 You want to analyse a dataset of a bacterial strain (e.g. WT SH1000 ∆tarO) that has never been analysed before with this routine. This is the most common situation you are going to find yourself, because it is more likely that you are the first researcher working in your specific strains. Therefore, you need to create two projects of ilastik from scratch and train the system (see below in sections 5 and 6 “Pixel and Object classification, training ilastik 1 and 2”).
 
-- Install ilastik plugin in FIJI (correlating both programs)
+- Install ilastik plugin in FIJI (correlating both programs) - Not necessary for Version 1 of the program / updated Nov.2023 /
 Plugins are like “tools” that can be added to FIJI. The best way to do this is going to FIJI and click in: Help->Update… Sometimes the system requires updating because some modification has been added and no dialog will appear. Just close FIJI and open it again and repeat the process until the dialog with a list of things appear. Then click the button “Manage update sites”:
 
  ![image](https://github.com/Laia-Pasquina/CocciVol/assets/99417146/92d097ab-10e1-4fce-a505-38f2042d158b)
@@ -74,7 +74,7 @@ Then this other dialog will appear, it is a list of all possible plugins. Scroll
 
 # For Filtering data, segmentation and volume calculation 
 
-See the complete manual (which can be found in the main folder of this GitHub named "CocciVol manual.pdf") with the previous installing sections (1 and 2) and the following parts:
+See the complete manual (which can be found in the main folder of this GitHub named "CocciVol_User_manual_v1.pdf") with the previous installing sections (1 and 2) and the following parts:
 
 3.	Sort and prepare your files/folders
 4.	Filtering process (preparing raw data)
