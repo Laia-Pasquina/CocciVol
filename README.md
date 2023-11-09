@@ -1,6 +1,9 @@
 # CocciVol
 Combining FIJI and ilastik to provide a versatile and adaptable approach to automated Bacteria cell classification and cell volume determination from fluorescence images . This powerful combination of FIJI and ilastik (CocciVol) applied to Cocci bacterial cells provides an automated method with higher throughput of calculating the cell Volume.
 
+![TOC](https://github.com/Laia-Pasquina/CocciVol/assets/99417146/4ab802f8-550f-4915-9f43-dfbeb48cdafa)
+
+
 #	0. How to navigate files in this GitHUB
 
 The files in the main folder are three types of files:
