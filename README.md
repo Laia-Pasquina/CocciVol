@@ -90,5 +90,6 @@ See the complete manual (which can be found in the main folder of this GitHub na
 
 	https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
+- Go to Releases (on the right hand side of the repository) for the latest version of the program, click on the release and download the .zip folder to work on it from your computer.
 - ilastik paper explaining how it works:
   https://www.nature.com/articles/s41592-019-0582-9
